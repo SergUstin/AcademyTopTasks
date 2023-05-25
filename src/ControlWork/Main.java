@@ -18,6 +18,7 @@ public class Main {
         // Реализация второго задания
         int[] arr = {1, 2, 3, 4, 5};
         System.out.print("Результат сдвига: ");
+
         System.out.println(Arrays.toString(moveRightArray(arr, 2)));
         System.out.println();
 
